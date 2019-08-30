@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Cuention API for the <a href="https://github.com/aulasoftwarelibre/cuestion">Cuestion project.</a></h4>
+<h4 align="center">Cuention API for the <a href="https://github.com/aulasoftwarelibre/cuestion-ui-kit">Cuestion UI Kit project.</a></h4>
 
 <div align="center">
 
